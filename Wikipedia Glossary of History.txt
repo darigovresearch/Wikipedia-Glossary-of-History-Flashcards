@@ -1,4 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="absolute_monarchy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Absolute_monarchy" title="Absolute monarchy">absolute monarchy</a></dfn></dt>
 <dd class="glossary">A system of government headed by a monarch as the only source of power, controlling all functions of the state.</dd>
@@ -92,7 +91,6 @@
 <p class="mw-empty-elt">
 </p>
 </div></div></div>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="baltica" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Baltica" title="Baltica">Baltica</a></dfn></dt>
 <dd class="glossary">A separate continental plate of the Early Paleozoic composed of what is now the United Kingdom, Scandinavia, European Russia and Central Europe. It is named for the Baltic Sea.</dd>
@@ -151,7 +149,6 @@
 <p class="mw-empty-elt">
 </p>
 </div></div></div>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="caesar" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Caesar_(title)" title="Caesar (title)">Caesar</a></dfn></dt>
 <dd class="glossary">A Roman family name best known for being used by several rulers of <a href="/wiki/Ancient_Rome" title="Ancient Rome">Ancient Rome</a>. Contrary to popular opinion, the name "Caesar" did not originally mean "emperor", although in modern times it has come to be defined as a synonym for autocrat. When the Roman leader <a href="/wiki/Gaius_Julius_Caesar" title="Gaius Julius Caesar">Gaius Julius Caesar</a> was assassinated in 44 BCE, his nephew and successor <a href="/wiki/Augustus" title="Augustus">Augustus</a> had himself formally adopted by the dead man and so also adopted the family name Caesar. <a href="/wiki/Tiberius" title="Tiberius">Tiberius</a> and <a href="/wiki/Caligula" title="Caligula">Caligula</a> inherited it by adoption as well. Later Roman emperors acquired the name upon their succession or when they were formally adopted as heirs.</dd>
@@ -239,7 +236,6 @@
 <p class="mw-empty-elt">
 </p>
 </div></div></div>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="date" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Calendar_date" title="Calendar date">date</a></dfn></dt>
 <dd class="glossary">A specific point or period of time.</dd>
@@ -248,7 +244,6 @@
 <dt class="glossary" id="discipline" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Discipline" title="Discipline">discipline</a></dfn></dt>
 <dd class="glossary">The study, or practice, of a specific subject using a specific set of methods, terms and approaches. History is a discipline, as is <a href="#archaeology"><span title="See entry on this page at § archaeology" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">archaeology</span></a>, <a href="/wiki/Chemistry" title="Chemistry">chemistry</a> and <a href="/wiki/Biology" title="Biology">biology</a>.</dd>
 </dl>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="economic_history" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Economic_history" title="Economic history">economic history</a></dfn></dt>
 <dd class="glossary">The study of economies or economic phenomena in the past.</dd>
@@ -298,7 +293,6 @@
 <p class="mw-empty-elt">
 </p>
 </div></div></div>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="faleristics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Faleristics" class="mw-redirect" title="Faleristics">faleristics</a></dfn></dt>
 <dd class="glossary">The study of military orders, decorations and medals.</dd>
@@ -307,14 +301,12 @@
 <dt class="glossary" id="fonds" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fonds" title="Fonds">fonds</a></dfn></dt>
 <dd class="glossary">In <a href="#archival_science"><span title="See entry on this page at § archival science" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">archival science</span></a>, an aggregation of documents which all originate from the same source.</dd>
 </dl>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="genealogy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Genealogy" title="Genealogy">genealogy</a></dfn></dt>
 <dd class="glossary">The study of family relationships.</dd>
 <dt class="glossary" id="gondwana" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Gondwana" title="Gondwana">Gondwana</a></dfn></dt>
 <dd class="glossary">A <a href="/wiki/Supercontinent" title="Supercontinent">supercontinent</a> that existed from the Cambrian to Jurassic, mainly composed of what is now South America, Africa, Madagascar, India, Antarctica, and Australia.</dd>
 </dl>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="hagiography" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hagiography" title="Hagiography">hagiography</a></dfn></dt>
 <dd class="glossary">A <a href="#biography"><span title="See entry on this page at § biography" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">biography</span></a> of a saint or saints, or more broadly any biography in which the author is uncritical or reverential towards the subject.</dd>
@@ -373,7 +365,6 @@
 <p class="mw-empty-elt">
 </p>
 </div></div></div>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="iapetus_ocean" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Iapetus_Ocean" title="Iapetus Ocean">Iapetus Ocean</a></dfn></dt>
 <dd class="glossary">A relatively small ocean that existed between the continents of <a href="#laurentia"><span title="See entry on this page at § Laurentia" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Laurentia</span></a>, <a href="#baltica"><span title="See entry on this page at § Baltica" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Baltica</span></a>, and <a href="#avalonia"><span title="See entry on this page at § Avalonia" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Avalonia</span></a> from the Late Precambrian to the Devonian.</dd>
@@ -384,12 +375,10 @@
 <dt class="glossary" id="interdisciplinary" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Interdisciplinary" class="mw-redirect" title="Interdisciplinary">interdisciplinary</a></dfn></dt>
 <dd class="glossary">The study or practice of a subject which applies the methods and approaches of several <a href="#discipline"><span title="See entry on this page at § discipline" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">disciplines</span></a>. For instance, while history, literature and archaeology are separate disciplines, they may be combined in an interdisciplinary approach.</dd>
 </dl>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="journal" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/History_journal" title="History journal">journal</a></dfn></dt>
 <dd class="glossary">A scholarly periodical, often focusing on a particular historical theme.</dd>
 </dl>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=11" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="lacuna" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Lacuna_(manuscripts)" title="Lacuna (manuscripts)">lacuna</a></dfn></dt>
 <dd class="glossary">A gap in a manuscript, inscription or text.</dd>
@@ -433,7 +422,6 @@
 <p class="mw-empty-elt">
 </p>
 </div></div></div>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=12" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="macrohistory" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Macrohistory" title="Macrohistory">macrohistory</a></dfn></dt>
 <dd class="glossary">The study of large, long-term trends in <a href="#world_history"><span title="See entry on this page at § world history" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">world history</span></a>, undertaken in order to uncover ultimate patterns that cut across the more specific details of diverse historical cultures.</dd>
@@ -450,7 +438,6 @@
 <dt class="glossary" id="mythology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Mythology" class="mw-redirect" title="Mythology">mythology</a></dfn></dt>
 <dd class="glossary">The collected body of <a href="/wiki/Myth" title="Myth">myths</a> shared by a culture or a group of people, or the academic study of such myths.</dd>
 </dl>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=13" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="numismatics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Numismatics" title="Numismatics">numismatics</a></dfn></dt>
 <dd class="glossary">The study of coins.</dd>
@@ -486,7 +473,6 @@
 <p class="mw-empty-elt">
 </p>
 </div></div></div>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=14" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="onomastics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Onomastics" title="Onomastics">onomastics</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>onomatology</b>.</span></p>
@@ -494,7 +480,6 @@
 <dt class="glossary" id="original_order" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Original_order" title="Original order">original order</a></dfn></dt>
 <dd class="glossary">A concept in archival theory which proposes that a group of records should be maintained in the same order as they were placed by their creator.</dd>
 </dl>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=15" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="paleography" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Paleography" class="mw-redirect" title="Paleography">paleography</a></dfn></dt>
 <dd class="glossary">The study of old handwriting.</dd>
@@ -564,12 +549,10 @@
 <p class="mw-empty-elt">
 </p>
 </div></div></div>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=16" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="quantitative_history" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantitative_history" title="Quantitative history">quantitative history</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=17" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="radiocarbon_dating" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Radiocarbon_dating" title="Radiocarbon dating">radiocarbon dating</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -586,7 +569,6 @@
 <dt class="glossary" id="reference_work" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Reference_work" title="Reference work">reference work</a></dfn></dt>
 <dd class="glossary">A text, usually in the form of a dictionary or encyclopedia, which contains facts and information but typically not discussions.</dd>
 </dl>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=18" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="saeculum" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Saeculum" title="Saeculum">saeculum</a></dfn></dt>
 <dd class="glossary">A length of time approximately equal to the potential lifetime of a human being or, equivalently, to the time it takes to completely regenerate a human population with new individuals – that is, the duration between the moment at which an event occurs (such as the founding of a city) and the point in time at which every individual who was alive at the first moment has died.</dd>
@@ -635,7 +617,6 @@
 <p class="mw-empty-elt">
 </p>
 </div></div></div>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=19" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="teleology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Teleology" title="Teleology">teleology</a></dfn></dt>
 <dd class="glossary">A mode of historical interpretation that holds that events move towards a definite end state or goal.</dd>
@@ -652,7 +633,6 @@
 <dt class="glossary" id="typology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Typology_(archaeology)" title="Typology (archaeology)">typology</a></dfn></dt>
 <dd class="glossary">In <a href="#archaeology"><span title="See entry on this page at § archaeology" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">archaeology</span></a>, the classification of <a href="#artifact"><span title="See entry on this page at § artifact" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">artifacts</span></a>, buildings and field monuments according to their physical characteristics; an important tool for managing large quantities of archaeological data.</dd>
 </dl>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=20" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="universal_history" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Universal_history" title="Universal history">universal history</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -661,7 +641,6 @@
 <dt class="glossary" id="urban_history" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Urban_history" title="Urban history">urban history</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=21" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="warfare" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Warfare" class="mw-redirect" title="Warfare">warfare</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also simply called <b>war</b>.</span></p>
@@ -671,7 +650,6 @@
 <dt class="glossary" id="world_history" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/World_history" title="World history">world history</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_history&amp;action=edit&amp;section=22" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="yuga" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Yuga" title="Yuga">yuga</a></dfn></dt>
 <dd class="glossary"></dd>
