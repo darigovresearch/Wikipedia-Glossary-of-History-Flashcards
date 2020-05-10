@@ -62,35 +62,6 @@
 <dt class="glossary" id="avalonia" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Avalonia" title="Avalonia">Avalonia</a></dfn></dt>
 <dd class="glossary">A separate plate in the Early Paleozoic consisting of much of what is now Northern Europe, Newfoundland, Nova Scotia, and some coastal parts of New England.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="baltica" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Baltica" title="Baltica">Baltica</a></dfn></dt>
 <dd class="glossary">A separate continental plate of the Early Paleozoic composed of what is now the United Kingdom, Scandinavia, European Russia and Central Europe. It is named for the Baltic Sea.</dd>
@@ -120,35 +91,6 @@
 <dt class="glossary" id="buranji" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Buranji" title="Buranji">Buranji</a></dfn></dt>
 <dd class="glossary">Written chronicles of <a href="/wiki/Ahoms" class="mw-redirect" title="Ahoms">Ahoms</a>, a medieval kingdom of <a href="/wiki/Assam" title="Assam">Assam</a>, <a href="/wiki/India" title="India">India</a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="caesar" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Caesar_(title)" title="Caesar (title)">Caesar</a></dfn></dt>
 <dd class="glossary">A Roman family name best known for being used by several rulers of <a href="/wiki/Ancient_Rome" title="Ancient Rome">Ancient Rome</a>. Contrary to popular opinion, the name "Caesar" did not originally mean "emperor", although in modern times it has come to be defined as a synonym for autocrat. When the Roman leader <a href="/wiki/Gaius_Julius_Caesar" title="Gaius Julius Caesar">Gaius Julius Caesar</a> was assassinated in 44 BCE, his nephew and successor <a href="/wiki/Augustus" title="Augustus">Augustus</a> had himself formally adopted by the dead man and so also adopted the family name Caesar. <a href="/wiki/Tiberius" title="Tiberius">Tiberius</a> and <a href="/wiki/Caligula" title="Caligula">Caligula</a> inherited it by adoption as well. Later Roman emperors acquired the name upon their succession or when they were formally adopted as heirs.</dd>
@@ -207,35 +149,6 @@
 <dt class="glossary" id="culture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Culture" title="Culture">culture</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="date" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Calendar_date" title="Calendar date">date</a></dfn></dt>
 <dd class="glossary">A specific point or period of time.</dd>
@@ -264,35 +177,6 @@
 <dt class="glossary" id="eurocentrism" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Eurocentrism" title="Eurocentrism">Eurocentrism</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="faleristics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Faleristics" class="mw-redirect" title="Faleristics">faleristics</a></dfn></dt>
 <dd class="glossary">The study of military orders, decorations and medals.</dd>
@@ -336,35 +220,6 @@
 <dt class="glossary" id="humanism" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Renaissance_humanism" title="Renaissance humanism">humanism</a></dfn></dt>
 <dd class="glossary">An intellectual movement of the <a href="#renaissance"><span title="See entry on this page at § Renaissance" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Renaissance</span></a> associated with the rediscovery of <a href="#classical_antiquity"><span title="See entry on this page at § Classical antiquity" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Classical</span></a> ideas.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="iapetus_ocean" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Iapetus_Ocean" title="Iapetus Ocean">Iapetus Ocean</a></dfn></dt>
 <dd class="glossary">A relatively small ocean that existed between the continents of <a href="#laurentia"><span title="See entry on this page at § Laurentia" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Laurentia</span></a>, <a href="#baltica"><span title="See entry on this page at § Baltica" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Baltica</span></a>, and <a href="#avalonia"><span title="See entry on this page at § Avalonia" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Avalonia</span></a> from the Late Precambrian to the Devonian.</dd>
@@ -393,35 +248,6 @@
 <dt class="glossary" id="&#39;&#39;longue_durée&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><i><a href="/wiki/Longue_dur%C3%A9e" title="Longue durée">longue durée</a></i></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="macrohistory" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Macrohistory" title="Macrohistory">macrohistory</a></dfn></dt>
 <dd class="glossary">The study of large, long-term trends in <a href="#world_history"><span title="See entry on this page at § world history" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">world history</span></a>, undertaken in order to uncover ultimate patterns that cut across the more specific details of diverse historical cultures.</dd>
@@ -444,35 +270,6 @@
 <dt class="glossary" id="natural_history" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Natural_history" title="Natural history">natural history</a></dfn></dt>
 <dd class="glossary">A domain of inquiry involving organisms including animals, fungi and plants in their natural environments which leans more towards observational than experimental methods of study.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="onomastics" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Onomastics" title="Onomastics">onomastics</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>onomatology</b>.</span></p>
@@ -520,35 +317,6 @@
 <dt class="glossary" id="public_history" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Public_history" title="Public history">public history</a></dfn></dt>
 <dd class="glossary">A range of activities undertaken by people with some training in the discipline of history, but who are generally working outside of specialized academic settings.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="quantitative_history" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quantitative_history" title="Quantitative history">quantitative history</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -588,35 +356,6 @@
 <dt class="glossary" id="stratigraphy" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Stratigraphy_(archaeology)" title="Stratigraphy (archaeology)">stratigraphy</a></dfn></dt>
 <dd class="glossary">In <a href="#archaeology"><span title="See entry on this page at § archaeology" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">archaeology</span></a>, a key concept in interpreting a site through establishing the relative <a href="#chronology"><span title="See entry on this page at § chronology" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">chronology</span></a> of its separate physical <a href="#context"><span title="See entry on this page at § context" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">contexts</span></a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#W">W</a> </li></ul>
-<p class="mw-empty-elt">
-</p>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="teleology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Teleology" title="Teleology">teleology</a></dfn></dt>
 <dd class="glossary">A mode of historical interpretation that holds that events move towards a definite end state or goal.</dd>
