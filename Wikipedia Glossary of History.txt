@@ -14,7 +14,9 @@
 <p class=""glossary-hatnote""><span role=""note"" class=""hatnote navigation-not-searchable selfref"">Also spelled <b>eon</b>.</span></p>
 <dd class=""glossary""></dd>"
 "<a href=""https://en.wikipedia.org/wiki/Age_(geology)"" title=""Age (geology)"">age</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Anachronism"" title=""Anachronism"">anachronism</a>"|"
 <dd class=""glossary"">A chronological inconsistency, in particular the introduction of an object, linguistic term, technology, idea, or anything else into a period in time to which it does not belong.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Ancient_history"" title=""Ancient history"">ancient history</a>"|"
@@ -42,11 +44,15 @@
 "<a href=""https://en.wikipedia.org/wiki/Archival_bond"" title=""Archival bond"">archival bond</a>"|"
 <dd class=""glossary"">The relationship that each archival record has with other records produced as part of the same transaction or activity and located within the same group.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Archival_science"" title=""Archival science"">archival science</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Archive"" title=""Archive"">archive</a>"|"
 <dd class=""glossary"">An accumulation of historical documents and records, or the physical repository in which they are located.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Archontology"" title=""Archontology"">archontology</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Art_history"" title=""Art history"">art history</a>"|"
 <dd class=""glossary"">The study of objects of <a href=""https://en.wikipedia.org/wiki/Art"" title=""Art"">art</a> in their historical and stylistic contexts.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Cultural_artifact"" title=""Cultural artifact"">artifact</a>"|"
@@ -70,11 +76,15 @@
 "<a href=""https://en.wikipedia.org/wiki/Bibliography"" title=""Bibliography"">bibliography</a>"|"
 <dd class=""glossary"">A list of works, including books, journals and essays, on a particular subject.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Big_History"" title=""Big History"">Big History</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Biography"" title=""Biography"">biography</a>"|"
 <dd class=""glossary"">An account of an individual's life, especially one written by someone other than the individual featured in the account.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Black_legend"" title=""Black legend"">black legend</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Blitzkrieg"" title=""Blitzkrieg"">Blitzkrieg</a>"|"
 <dd class=""glossary"">German for ""lightning war"". A military strategy used by the German Army at the beginning of <a href=""https://en.wikipedia.org/wiki/World_War_II"" title=""World War II"">World War II</a> to achieve victory through a series of quick offensives, especially in Belgium, the Netherlands and France. The strategy involved a heavy initial bombardment, followed by the rapid mobilisation of armour and motorised infantry to break the weakest parts of the enemy line.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Bolsheviks"" title=""Bolsheviks"">Bolsheviks</a>"|"
@@ -104,14 +114,18 @@
 "<a href=""https://en.wikipedia.org/wiki/Chronology"" title=""Chronology"">chronology</a>"|"
 <dd class=""glossary"">The study of the sequence of past events.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Classical_antiquity"" title=""Classical antiquity"">Classical antiquity</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Cimmeria_(continent)"" title=""Cimmeria (continent)"">Cimmerian Terranes</a>"|"
 <p class=""glossary-hatnote""><span role=""note"" class=""hatnote navigation-not-searchable selfref"">Also called <b><a href=""https://en.wikipedia.org/wiki/Cimmeria_(continent)"" title=""Cimmeria (continent)"">Cimmeria</a></b>.</span></p>
 <dd class=""glossary"">An archipelago of small landmasses that developed in tropical and subtropical latitudes on the eastern side of <a href=""#pangaea""><span title=""See entry on this page at § Pangaea"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Pangaea</span></a> during the Triassic. Blocks that comprised it include what is now Turkey, Iran, Afghanistan, Tibet, and Malaysia.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Citation"" title=""Citation"">citation</a>"|"
 <dd class=""glossary"">A reference to the published or unpublished source for an assertion or argument.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Classical_tradition"" title=""Classical tradition"">classical tradition</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Classics"" title=""Classics"">classics</a>"|"
 <p class=""glossary-hatnote""><span role=""note"" class=""hatnote navigation-not-searchable selfref"">Also called <b>classical studies</b>.</span></p>
 <dd class=""glossary""></dd>"
@@ -125,7 +139,9 @@
 "<a href=""https://en.wikipedia.org/wiki/Coherence_theory_of_truth"" title=""Coherence theory of truth"">coherence theory of truth</a>"|"
 <dd class=""glossary"">A theory that regards statements as true if they are coherent within some specified set of sentences, propositions, or beliefs.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Colonialism"" title=""Colonialism"">colonialism</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Comparative_history"" title=""Comparative history"">comparative history</a>"|"
 <dd class=""glossary"">The comparison of different societies which existed during the same time period or shared similar cultural conditions.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Congo_Craton"" title=""Congo Craton"">Congo Craton</a>"|"
@@ -140,9 +156,13 @@
 <p class=""glossary-hatnote""><span role=""note"" class=""hatnote navigation-not-searchable selfref"">Also referred to simply as the <b>Western Interior Seaway</b>.</span></p>
 <dd class=""glossary"">The epicontinental sea that formed as marine waters from the north spread over North America from around 130 to 70 million years ago (Ma). At its peak in the Middle Cretaceous (~90 Ma), it extended from present-day Utah to the Appalachians and from the Arctic to the Gulf of Mexico.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Cultural_history"" title=""Cultural history"">cultural history</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Culture"" title=""Culture"">culture</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Calendar_date"" title=""Calendar date"">date</a>"|"
 <dd class=""glossary"">A specific point or period of time.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Diplomatics"" title=""Diplomatics"">diplomatics</a>"|"
@@ -152,7 +172,9 @@
 "<a href=""https://en.wikipedia.org/wiki/Economic_history"" title=""Economic history"">economic history</a>"|"
 <dd class=""glossary"">The study of economies or economic phenomena in the past.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Empire"" title=""Empire"">empire</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Age_of_Enlightenment"" title=""Age of Enlightenment"">Enlightenment</a>"|"
 <dd class=""glossary"">A cultural and intellectual movement of the late 17th to late 18th centuries that emphasized reason and individualism rather than tradition, predominantly among Western European cultures but also in other parts of the world.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Aeon"" title=""Aeon"">eon</a>"|"
@@ -160,13 +182,17 @@
 "<a href=""https://en.wikipedia.org/wiki/Epigraphy"" title=""Epigraphy"">epigraphy</a>"|"
 <dd class=""glossary"">The study of ancient inscriptions.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Epoch_(reference_date)"" class=""mw-redirect"" title=""Epoch (reference date)"">epoch</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Era"" title=""Era"">era</a>"|"
 <dd class=""glossary"">Any span of time defined for the purposes of <a href=""#chronology""><span title=""See entry on this page at § chronology"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">chronology</span></a> or <a href=""#historiography""><span title=""See entry on this page at § historiography"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">historiography</span></a>. In chronology, an era is the highest level of organization for the measurement of <a href=""https://en.wikipedia.org/wiki/Time"" title=""Time"">time</a>, as used in defining <a href=""#calendar_era""><span title=""See entry on this page at § calendar era"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">calendar eras</span></a> for a given calendar and <a href=""#regnal_year""><span title=""See entry on this page at § regnal year"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">regnal eras</span></a> in the history of a monarchy. The term is also used in <a href=""#geologic_time""><span title=""See entry on this page at § geologic time"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">geologic time</span></a>, where an era is a subdivision of an <a href=""#aeon""><span title=""See entry on this page at § aeon"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">aeon</span></a>.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Euramerica"" title=""Euramerica"">Euramerica</a>"|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Supercontinent"" title=""Supercontinent"">supercontinent</a> that existed in the Late Silurian through Devonian, formed by the collision of <a href=""#baltica""><span title=""See entry on this page at § Baltica"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Baltica</span></a>, <a href=""#laurentia""><span title=""See entry on this page at § Laurentia"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Laurentia</span></a>, and <a href=""#avalonia""><span title=""See entry on this page at § Avalonia"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Avalonia</span></a>. It included what is now North America, Greenland, Scandinavia, and Europe. It is also sometimes referred to as the “Old Red Continent” for the red color of its oxidized deposits.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Eurocentrism"" title=""Eurocentrism"">Eurocentrism</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Faleristics"" class=""mw-redirect"" title=""Faleristics"">faleristics</a>"|"
 <dd class=""glossary"">The study of military orders, decorations and medals.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Feudalism"" title=""Feudalism"">feudalism</a>"|"
@@ -188,20 +214,30 @@
 "<a href=""https://en.wikipedia.org/wiki/Historian"" title=""Historian"">historian</a>"|"
 <dd class=""glossary"">A scholar who studies or writes about <a href=""#history""><span title=""See entry on this page at § history"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">history</span></a>.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/List_of_historical_classifications"" title=""List of historical classifications"">historical classification</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Historical_revisionism"" title=""Historical revisionism"">historical revisionism</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Historical_thinking"" title=""Historical thinking"">historical thinking</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Historicism"" title=""Historicism"">historicism</a>"|"
 <dd class=""glossary"">A mode of historical enquiry that insists that the past must be understood on its own terms.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Historicity"" title=""Historicity"">historicity</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Historiography"" title=""Historiography"">historiography</a>"|"
 <dd class=""glossary"">1.&#160;&#160;The study of the methodology and development of <a href=""#history""><span title=""See entry on this page at § history"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">history</span></a> as a <a href=""#discipline""><span title=""See entry on this page at § discipline"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">discipline</span></a>.</dd>
 <dd class=""glossary"">2.&#160;&#160;A body of historical work on a particular topic.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Human_history"" title=""Human history"">human history</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Renaissance_humanism"" title=""Renaissance humanism"">humanism</a>"|"
 <dd class=""glossary"">An intellectual movement of the <a href=""#renaissance""><span title=""See entry on this page at § Renaissance"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Renaissance</span></a> associated with the rediscovery of <a href=""#classical_antiquity""><span title=""See entry on this page at § Classical antiquity"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Classical</span></a> ideas.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Iapetus_Ocean"" title=""Iapetus Ocean"">Iapetus Ocean</a>"|"
@@ -209,7 +245,9 @@
 "<a href=""https://en.wikipedia.org/wiki/Illuminated_manuscript"" title=""Illuminated manuscript"">illuminated manuscript</a>"|"
 <dd class=""glossary"">A manuscript in which the text is supplemented by the addition of decoration.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Imperialism"" title=""Imperialism"">imperialism</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Interdisciplinary"" class=""mw-redirect"" title=""Interdisciplinary"">interdisciplinary</a>"|"
 <dd class=""glossary"">The study or practice of a subject which applies the methods and approaches of several <a href=""#discipline""><span title=""See entry on this page at § discipline"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">disciplines</span></a>. For instance, while history, literature and archaeology are separate disciplines, they may be combined in an interdisciplinary approach.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/History_journal"" title=""History journal"">journal</a>"|"
@@ -217,7 +255,9 @@
 "<a href=""https://en.wikipedia.org/wiki/Lacuna_(manuscripts)"" title=""Lacuna (manuscripts)"">lacuna</a>"|"
 <dd class=""glossary"">A gap in a manuscript, inscription or text.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Landscape_history"" title=""Landscape history"">landscape history</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Laurasia"" title=""Laurasia"">Laurasia</a>"|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Supercontinent"" title=""Supercontinent"">supercontinent</a> that existed from the Jurassic to Early Tertiary after splitting from <a href=""#pangaea""><span title=""See entry on this page at § Pangaea"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Pangaea</span></a>. It was composed of <a href=""#laurentia""><span title=""See entry on this page at § Laurentia"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Laurentia</span></a>, <a href=""#baltica""><span title=""See entry on this page at § Baltica"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Baltica</span></a>, and <a href=""#avalonia""><span title=""See entry on this page at § Avalonia"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Avalonia</span></a> (what is now North America, Scandinavia, Greenland, and Western and Central Europe), and eventually fragmented into Eurasia and North America in the Tertiary with the opening of the North Atlantic Ocean.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Laurentia"" title=""Laurentia"">Laurentia</a>"|"
@@ -225,7 +265,9 @@
 "<a href=""https://en.wikipedia.org/wiki/Local_history"" title=""Local history"">local history</a>"|"
 <dd class=""glossary"">The study of the history of a small geographical area, of a local community, or of the local incidence of broader national or international trends. If undertaken with a view to casting light on larger historical questions, local history may be regarded as a branch of <a href=""#microhistory""><span title=""See entry on this page at § microhistory"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">microhistory</span></a>.</dd>"
 "<i><a href=""https://en.wikipedia.org/wiki/Longue_dur%C3%A9e"" title=""Longue durée"">longue durée</a></i>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Macrohistory"" title=""Macrohistory"">macrohistory</a>"|"
 <dd class=""glossary"">The study of large, long-term trends in <a href=""#world_history""><span title=""See entry on this page at § world history"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">world history</span></a>, undertaken in order to uncover ultimate patterns that cut across the more specific details of diverse historical cultures.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Manuscript"" title=""Manuscript"">manuscript</a>"|"
@@ -233,11 +275,15 @@
 "<a href=""https://en.wikipedia.org/wiki/Microhistory"" title=""Microhistory"">microhistory</a>"|"
 <dd class=""glossary"">The intensive historical investigation of a small and narrow unit of research (an event, a community or an individual), generally undertaken with a view to casting light on broader historical questions. <a href=""#local_history""><span title=""See entry on this page at § local history"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Local history</span></a> may be considered a branch of microhistory.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Human_migration"" title=""Human migration"">migration</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Military_history"" title=""Military history"">military history</a>"|"
 <dd class=""glossary"">The study of the history of armed conflict and its impact on society. It may range from the study of specific military actions and engagements to the much broader examination of <a href=""#warfare""><span title=""See entry on this page at § warfare"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">warfare</span></a> as a political tool.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Modern_history"" class=""mw-redirect"" title=""Modern history"">modern history</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Mythology"" class=""mw-redirect"" title=""Mythology"">mythology</a>"|"
 <dd class=""glossary"">The collected body of <a href=""https://en.wikipedia.org/wiki/Myth"" title=""Myth"">myths</a> shared by a culture or a group of people, or the academic study of such myths.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Numismatics"" title=""Numismatics"">numismatics</a>"|"
@@ -264,15 +310,21 @@
 "<a href=""https://en.wikipedia.org/wiki/Past"" title=""Past"">past</a>"|"
 <dd class=""glossary"">The entire set or any subset of events which happened previously in time.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Periodization"" title=""Periodization"">periodization</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Philately"" title=""Philately"">philately</a>"|"
 <dd class=""glossary"">The study of postage stamps.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Philology"" title=""Philology"">philology</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Political_history"" title=""Political history"">political history</a>"|"
 <dd class=""glossary"">The study of political events, ideas, movements and leaders of the past.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Prehistory"" title=""Prehistory"">prehistory</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Presentism_(literary_and_historical_analysis)"" title=""Presentism (literary and historical analysis)"">presentism</a>"|"
 <dd class=""glossary"">The application of present-day ideas and perspectives to depictions or interpretations of the past.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Primary_source"" title=""Primary source"">primary source</a>"|"
@@ -280,23 +332,35 @@
 "<a href=""https://en.wikipedia.org/wiki/Prosopography"" title=""Prosopography"">prosopography</a>"|"
 <dd class=""glossary"">The investigation of a historical group of individuals through a collective study of their lives.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Protohistory"" title=""Protohistory"">protohistory</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Provenance"" title=""Provenance"">provenance</a>"|"
 <dd class=""glossary"">The chronology of the ownership, custody or location of a historical object, document or group of records.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Pseudohistory"" title=""Pseudohistory"">pseudohistory</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Public_history"" title=""Public history"">public history</a>"|"
 <dd class=""glossary"">A range of activities undertaken by people with some training in the discipline of history, but who are generally working outside of specialized academic settings.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Quantitative_history"" title=""Quantitative history"">quantitative history</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Radiocarbon_dating"" title=""Radiocarbon dating"">radiocarbon dating</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Renaissance"" title=""Renaissance"">Renaissance</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Respect_des_fonds"" title=""Respect des fonds"">respect des fonds</a>"|"
 <dd class=""glossary"">An archival principle which proposes that collections of archival records should be ordered and preserved according to the administration, organization, individual, or entity by which they were created or from which they were received.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Revolution"" title=""Revolution"">revolution</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Rodinia"" title=""Rodinia"">Rodinia</a>"|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Supercontinent"" title=""Supercontinent"">supercontinent</a> that existed during the Late Precambrian before the supercontinent <a href=""#pannotia""><span title=""See entry on this page at § Pannotia"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Pannotia</span></a>, and the oldest supercontinent for which scientists have a good record. The name <i>Rodinia</i> is Russian for ""homeland"".</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Romanticism"" title=""Romanticism"">Romanticism</a>"|"
@@ -327,7 +391,9 @@
 "<a href=""https://en.wikipedia.org/wiki/Time"" title=""Time"">time</a>"|"
 <dd class=""glossary"">The indefinite continued progress of existence and <a href=""https://en.wikipedia.org/wiki/Event_(philosophy)"" title=""Event (philosophy)"">events</a> that occur in an apparently irreversible succession from the <a href=""https://en.wikipedia.org/wiki/Past"" title=""Past"">past</a>, through the <a href=""https://en.wikipedia.org/wiki/Present"" title=""Present"">present</a>, to the <a href=""https://en.wikipedia.org/wiki/Future"" title=""Future"">future</a>.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Timeline"" title=""Timeline"">timeline</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Toponymy"" title=""Toponymy"">toponymy</a>"|"
 <dd class=""glossary"">The study of <a href=""https://en.wikipedia.org/wiki/Placename"" class=""mw-redirect"" title=""Placename"">placenames</a>.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Transhistoricity"" title=""Transhistoricity"">transhistoricity</a>"|"
@@ -335,17 +401,25 @@
 "<a href=""https://en.wikipedia.org/wiki/Typology_(archaeology)"" title=""Typology (archaeology)"">typology</a>"|"
 <dd class=""glossary"">In <a href=""#archaeology""><span title=""See entry on this page at § archaeology"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">archaeology</span></a>, the classification of <a href=""#artifact""><span title=""See entry on this page at § artifact"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">artifacts</span></a>, buildings and field monuments according to their physical characteristics; an important tool for managing large quantities of archaeological data.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Universal_history"" title=""Universal history"">universal history</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Unwitting_testimony"" title=""Unwitting testimony"">unwitting testimony</a>"|"
 <dd class=""glossary"">The unintentional evidence provided by historical sources.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/Urban_history"" title=""Urban history"">urban history</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Warfare"" class=""mw-redirect"" title=""Warfare"">warfare</a>"|"
 <p class=""glossary-hatnote""><span role=""note"" class=""hatnote navigation-not-searchable selfref"">Also simply called <b>war</b>.</span></p>
 <dd class=""glossary""></dd>"
 "<a href=""https://en.wikipedia.org/wiki/Whig_history"" title=""Whig history"">Whig history</a>"|"
 <dd class=""glossary"">A mode of historical interpretation which presents the past as an inevitable progression towards ever greater liberty and enlightenment; or, more broadly, any <a href=""#teleology""><span title=""See entry on this page at § teleology"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">teleological</span></a> or goal-directed narrative that assumes the inevitability of progress.</dd>"
 "<a href=""https://en.wikipedia.org/wiki/World_history"" title=""World history"">world history</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
 "<a href=""https://en.wikipedia.org/wiki/Yuga"" title=""Yuga"">yuga</a>"|"
-<dd class=""glossary""></dd>"
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-History-Flashcards"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_history"">""Glossary of history""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
+"
